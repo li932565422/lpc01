@@ -14,6 +14,6 @@
 
 [刘海](https://li932565422.github.io/lpc01/ErWei_LiuHai/index.html)
 
-[001](https://li932565422.github.io/lpc01/2ty/scene.html)
+[001](https://li932565422.github.io/lpc01/001/index.html)
 
 [002](https://li932565422.github.io/lpc01/6ty/index.html)
