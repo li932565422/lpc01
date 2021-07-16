@@ -14,6 +14,6 @@
 
 [刘海](https://li932565422.github.io/lpc01/ErWei_LiuHai/index.html)
 
-[001](https://li932565422.github.io/lpc01/001/index.html)
+[001](https://li932565422.github.io/lpc01/000/index.html)
 
 [003](https://li932565422.github.io/lpc01/003/index.html)
